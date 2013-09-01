@@ -1,0 +1,8 @@
+{
+    "name": "panorama",
+    "description": "Manipulate and access tab group (Panorama) related data",
+    "keywords": ["panorama", "groups", "tab groups", "ui"],
+    "author": "Ryan McCue (http://ryanmccue.info/) <me+ffpanorama@ryanmccue.info>",
+    "version": "0.1",
+    "license": "MIT"
+}
